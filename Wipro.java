@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 public class Wipro {
 
 	public static void main(String[] args) {
-		question1();
+		//question1();
 		question2();
 
 	}
